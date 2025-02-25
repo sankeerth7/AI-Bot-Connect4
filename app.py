@@ -191,14 +191,7 @@ def extract_patches(inputs, patch_size=(3, 4), stride=(3, 3)):
 
 
 # Connect to Anvil using your uplink key (replace with your actual key)
-anvil.server.connect("server_O67WWJTEX7KCRROTVANLQKNU-AIBDDZFW6WDSUHC5")
-
-
-#server_GOXTCOWNLDPZ5QIAPXJSTEY3-LPWSO6HF6YFCSOAY
-#server_QAAKVRJNC73VDWRBPFHOMYPP-YJIPXDMXAFKYQLUB
-#server_EQDNEF4NYDK5V6KTONNRV5YK-3EM4PJCO3IYPQJ67"
-#"server_TCI33OEOB6NVAP34AFU2NIMK-3EM4PJCO3IYPQJ67"
-
+anvil.server.connect("serv")
 
 
 # def predict_best_move(input_array):
