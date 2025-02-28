@@ -29,7 +29,6 @@ The goal of this project was to develop a high-performing AI capable of predicti
 
 - **MCTS-Driven Data:** Generated training examples using Monte Carlo Tree Search to simulate future moves and evaluate optimal plays.
 - **Data Augmentation:** Increased dataset size through board mirroring and random move initialization.
-- **Preprocessing:** Standardized board states, applied one-hot encoding for target labels, and split data into training and validation sets.
 
 ## Model Architectures
 
