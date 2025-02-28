@@ -13,11 +13,6 @@ This repository contains the source code and documentation for an AI bot designe
 - [Model Architectures](#model-architectures)
 - [Training & Optimization](#training--optimization)
 - [Deployment](#deployment)
-- [Usage](#usage)
-- [Future Improvements](#future-improvements)
-- [Setup & Installation](#setup--installation)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Overview
 
