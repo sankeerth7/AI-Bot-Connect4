@@ -2,6 +2,8 @@
 
 This repository contains the source code and documentation for an AI bot designed to play Connect Four. The project explores and compares multiple deep learning architectures—including Convolutional Neural Networks (CNNs), Transformer models, and a hybrid CNN-Transformer approach—to predict the optimal move from any given board state. The models are trained on high-quality, MCTS-driven data and deployed as an interactive web application using Anvil, Docker, and AWS.
 
+## Link to the App : https://flickering-shadowy-panic.anvil.app/
+
 ## Table of Contents
 
 - [Overview](#overview)
